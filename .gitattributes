@@ -1,0 +1,10 @@
+# Frontend - count as JavaScript
+JobPortal_react/** linguist-language=JavaScript
+
+# Backend - count as Java
+JobPortal_sb/** linguist-language=Java
+
+# Make sure both types of files are counted
+*.js linguist-detectable=true
+*.jsx linguist-detectable=true
+*.java linguist-detectable=true
